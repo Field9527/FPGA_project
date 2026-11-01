@@ -1,0 +1,92 @@
+[
+  {
+    "file": "build/reports/utilization.rpt",
+    "original_sha256": "3b7f603067d1bc55af4737d0583ec39eeda59c5588855830246b932cd3d5cda2",
+    "published_sha256": "89ce4eea11fce4cc1b88b8d1e69a1e9b4cb0b73baf2e3e84794b32b9520bc7e0",
+    "host_redacted": true
+  },
+  {
+    "file": "build/reports/timing_summary.rpt",
+    "original_sha256": "8d3380dd216f7110e20a25215ec267cbf13e5f4794871eb54cadef8f81707e24",
+    "published_sha256": "4649928034934433790e219ed68fc870827d29599267967fb33c7a0ae117c7b6",
+    "host_redacted": true
+  },
+  {
+    "file": "build/reports/methodology.rpt",
+    "original_sha256": "b14c205631b624f91dd3ec790d384f559cb7868bcb8e5b54abb55522b392b524",
+    "published_sha256": "07cc175407cfa11e47880257f92fcb043d9063eb054716b11b5e2a04efa6b946",
+    "host_redacted": true
+  },
+  {
+    "file": "build/reports/drc.rpt",
+    "original_sha256": "1488bdcd22e0c5ead80cddebd8cbb1fc0891a217549b1385cd8420c6efa8d916",
+    "published_sha256": "ef9c0e14bd73465a474f50ac779b04de6016cb3f7e3111e68bbce374ca504fdf",
+    "host_redacted": true
+  },
+  {
+    "file": "build/reports/baseline_utilization_placed.rpt",
+    "original_sha256": "c924daeaf25c519eb888dacfc0c6cc5078821808cd5a858b364025ced3ad88ce",
+    "published_sha256": "37fd29d020f7a861f4717463bf518e6a154505d1bf943b5898ef712d554a92c1",
+    "host_redacted": true
+  },
+  {
+    "file": "build/reports/baseline_timing_routed.rpt",
+    "original_sha256": "af5a181c1e91c1e75510825eea514af0bc313713cfbf9af3829bf14817f80c5b",
+    "published_sha256": "6ac161d309ae15689598f1614251ebaddbed9ba2994425ecc9168ce61aa69774",
+    "host_redacted": true
+  },
+  {
+    "file": "sim/results/xsim.log",
+    "original_sha256": "3ec69de5bab53c6b693e9bf2c1cbaf8e9d8a729c6ecee1b0fd72d966c2db1e96",
+    "published_sha256": "3ec69de5bab53c6b693e9bf2c1cbaf8e9d8a729c6ecee1b0fd72d966c2db1e96",
+    "host_redacted": true
+  },
+  {
+    "file": "sim/results/simulation_project.log",
+    "original_sha256": "70bf81753930f0fa4f6612c851d7bf268c6860665d2ec8a41654f5fc24d1cf3c",
+    "published_sha256": "70bf81753930f0fa4f6612c851d7bf268c6860665d2ec8a41654f5fc24d1cf3c",
+    "host_redacted": true
+  },
+  {
+    "file": "sim/results/verify_implemented.log",
+    "original_sha256": "dc39aef3937087a71316f934d7db398c31ac053b925c9305c7958e98abe3ee8f",
+    "published_sha256": "dc39aef3937087a71316f934d7db398c31ac053b925c9305c7958e98abe3ee8f",
+    "host_redacted": true
+  },
+  {
+    "file": "board/results/board_final_running.json",
+    "original_sha256": "292d9e8024699153a9713e7d70edab18acb7e9c62b70012beeab3bdf6848ae66",
+    "published_sha256": "292d9e8024699153a9713e7d70edab18acb7e9c62b70012beeab3bdf6848ae66",
+    "host_redacted": false
+  },
+  {
+    "file": "board/results/board_poweron_result.json",
+    "original_sha256": "32ddf7f717541b3de715f802a865d3f000bf71d1f95c7672c1d7f28c4cea43e7",
+    "published_sha256": "32ddf7f717541b3de715f802a865d3f000bf71d1f95c7672c1d7f28c4cea43e7",
+    "host_redacted": false
+  },
+  {
+    "file": "data/validation/baseline_public.json",
+    "original_sha256": "5aa005d04fccb943d2000bfe536de8c8b59fb9ece21703d43d49844902d1484a",
+    "published_sha256": "5aa005d04fccb943d2000bfe536de8c8b59fb9ece21703d43d49844902d1484a",
+    "host_redacted": false
+  },
+  {
+    "file": "data/validation/fps18_public.json",
+    "original_sha256": "07b7fd69298212d7fb74c270cd3b0942fa200d78a2fca5c00e5666331cfddb33",
+    "published_sha256": "07b7fd69298212d7fb74c270cd3b0942fa200d78a2fca5c00e5666331cfddb33",
+    "host_redacted": false
+  },
+  {
+    "file": "data/validation/text_qa.json",
+    "original_sha256": "4fe59e213a6926a53a9ca28e1a4740ebdf735800ad80cd4943bf95b9c506d7e3",
+    "published_sha256": "4fe59e213a6926a53a9ca28e1a4740ebdf735800ad80cd4943bf95b9c506d7e3",
+    "host_redacted": false
+  },
+  {
+    "file": "data/validation/cached_model_regression.json",
+    "original_sha256": "64465cd2f3efe6ec046113b2a8af91681da64066fa131419af2b65ab826f0907",
+    "published_sha256": "64465cd2f3efe6ec046113b2a8af91681da64066fa131419af2b65ab826f0907",
+    "host_redacted": false
+  }
+]

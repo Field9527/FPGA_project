@@ -1,0 +1,15 @@
+{
+  "positive": {
+    "files": 50,
+    "ok": true,
+    "errors": []
+  },
+  "tamper_rejected": true,
+  "negative": {
+    "files": 1,
+    "ok": false,
+    "errors": [
+      "mismatch: sample.bin"
+    ]
+  }
+}

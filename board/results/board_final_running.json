@@ -1,0 +1,20 @@
+{
+  "status": "deployed_and_running",
+  "runtime": "/home/xilinx/fall_gesture_trial",
+  "source_commit": "f9389434179f31ebd5e9b6e471253bb2df393420",
+  "recognition_mode": "gesture",
+  "sw0_position": 1,
+  "stable_settings": {
+    "display_fps": 12,
+    "web_fps": 15
+  },
+  "physical_validation": {
+    "camera_ready": true,
+    "sw0_readback": true,
+    "gesture_mode_disables_fall_inference": true,
+    "user_confirmed_no_tearing_on_hdmi_and_web": true,
+    "two_position_switch_test": "not_performed"
+  },
+  "startup_note": "Full power cycle was required after changing FPGA bit/hwh; current runtime is already started",
+  "next_action": "Normal use; run.sh is idempotent. No restart needed now."
+}

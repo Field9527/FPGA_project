@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="680" viewBox="0 0 1100 680"><rect width="1100" height="680" fill="white"/>
+<text x="35" y="53" font-family="Microsoft YaHei,sans-serif" font-size="31" fill="#192B40">单块 AC880 / Zynq-7020</text>
+<rect x="35" y="113" width="200" height="137" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="50" y="153" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">OV5640</text>
+<text x="50" y="197" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">720p / DVP</text>
+<path d="M235,180 L275,180" stroke="#315E83" stroke-width="3"/><polygon points="275,180 264,174 264,186" fill="#315E83"/>
+<rect x="280" y="103" width="355" height="205" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="295" y="143" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">PL 视频与外设</text>
+<text x="295" y="187" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">采集 / VDMA / DDR</text>
+<text x="295" y="217" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">滤镜 / DHT11 / SW0</text>
+<text x="295" y="247" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">LED 与蜂鸣器接口</text>
+<path d="M640,180 L683,180" stroke="#315E83" stroke-width="3"/><polygon points="683,180 672,174 672,186" fill="#315E83"/>
+<rect x="690" y="103" width="375" height="205" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="705" y="143" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">PS 板端处理</text>
+<text x="705" y="187" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">ARM / PYNQ / NCNN</text>
+<text x="705" y="217" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">模型推理与时序判决</text>
+<text x="705" y="247" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">叠加显示与网页服务</text>
+<text x="670" y="348" font-family="Microsoft YaHei,sans-serif" font-size="23" fill="#5A6570">AXI / DDR 交换数据</text>
+<text x="35" y="387" font-family="Microsoft YaHei,sans-serif" font-size="27" fill="#315E83">用户 SW0：↓ 摔倒模式   ↑ 手势模式</text>
+<text x="35" y="430" font-family="Microsoft YaHei,sans-serif" font-size="23" fill="#192B40">互斥调度；切换时清空确认窗口并丢弃旧结果</text>
+<rect x="35" y="487" width="300" height="138" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="50" y="527" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">本地输出</text>
+<text x="50" y="571" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">HDMI 画面与状态</text>
+<text x="50" y="601" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">LED / 蜂鸣器</text>
+<rect x="390" y="487" width="300" height="138" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="405" y="527" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">电脑网关</text>
+<text x="405" y="571" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">共享 JPEG 编码</text>
+<text x="405" y="601" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">SSH 隧道</text>
+<rect x="745" y="487" width="320" height="138" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="760" y="527" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">云端与浏览器</text>
+<text x="760" y="571" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">HTTPS / 登录验证</text>
+<text x="760" y="601" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">手机和电脑远程查看</text>
+<path d="M695,555 L740,555" stroke="#315E83" stroke-width="3"/><polygon points="740,555 729,549 729,561" fill="#315E83"/>
+<text x="35" y="668" font-family="Microsoft YaHei,sans-serif" font-size="22" fill="#5A6570">全部实时识别在开发板；模型读取原始彩色图像。</text>
+</svg>

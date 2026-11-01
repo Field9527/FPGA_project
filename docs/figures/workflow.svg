@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="680" viewBox="0 0 1100 680"><rect width="1100" height="680" fill="white"/>
+<text x="35" y="53" font-family="Microsoft YaHei,sans-serif" font-size="31" fill="#192B40">最新帧调度与互斥识别</text>
+<rect x="35" y="105" width="300" height="145" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="50" y="145" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">已完成采集帧</text>
+<text x="50" y="189" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">选择最新自有帧</text>
+<text x="50" y="219" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">保留原始彩色图像</text>
+<path d="M340,177 L385,177" stroke="#315E83" stroke-width="3"/><polygon points="385,177 374,171 374,183" fill="#315E83"/>
+<rect x="390" y="105" width="300" height="145" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="405" y="145" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">SW0 物理选择</text>
+<text x="405" y="189" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">150 ms 消抖</text>
+<text x="405" y="219" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">每路至多一个在途任务</text>
+<path d="M695,177 L740,177" stroke="#315E83" stroke-width="3"/><polygon points="740,177 729,171 729,183" fill="#315E83"/>
+<rect x="745" y="105" width="320" height="145" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="760" y="145" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">结果有效性检查</text>
+<text x="760" y="189" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">样本序号 / 时间</text>
+<text x="760" y="219" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">控制代次与过期检查</text>
+<rect x="35" y="310" width="495" height="170" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="50" y="350" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">SW0 ↓ 摔倒识别</text>
+<text x="50" y="394" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">MobileNetV3 / FPN / SSD</text>
+<text x="50" y="424" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">共享特征 ROI 与 MLP 复核</text>
+<text x="50" y="454" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">逐目标候选、预警和报警</text>
+<rect x="570" y="310" width="495" height="170" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="585" y="350" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">SW0 ↑ 手势识别</text>
+<text x="585" y="394" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">掌部检测 / 21 点关键点</text>
+<text x="585" y="424" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">几何分类 / 新样本稳定确认</text>
+<text x="585" y="454" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40">张掌开灯、握拳关灯、V 短鸣</text>
+<text x="35" y="535" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">切换暂停调度，排空旧任务，丢弃旧代次结果</text>
+<rect x="35" y="565" width="1030" height="85" fill="#F6F7F9" stroke="#B7C3D0" stroke-width="2"/>
+<text x="50" y="605" font-family="Microsoft YaHei,sans-serif" font-size="25" fill="#315E83">统一执行与发布</text>
+<text x="50" y="649" font-family="Microsoft YaHei,sans-serif" font-size="21" fill="#192B40"></text>
+<text x="410" y="608" font-family="Microsoft YaHei,sans-serif" font-size="23" fill="#192B40">硬件主线程 / HDMI / 网页 / 事件记录</text>
+</svg>

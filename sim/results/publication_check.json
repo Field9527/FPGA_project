@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-01",
+  "repository": "https://github.com/Field9527/FPGA_project",
+  "python_tests": {
+    "count": 96,
+    "result": "PASS",
+    "seconds": 8.136,
+    "opencv": "4.10.0"
+  },
+  "video_queue": "PASS",
+  "runtime_manifest": {
+    "files": 50,
+    "ok": true,
+    "errors": []
+  },
+  "project_paths_lowercase": true,
+  "readme_links": "PASS",
+  "private_key_and_token_scan": "PASS",
+  "functional_files_byte_identical_to_verified_bundle": 134,
+  "report_pages": 15,
+  "report_change": "repository_url_only",
+  "new_board_operations": false
+}

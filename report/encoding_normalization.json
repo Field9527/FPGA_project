@@ -1,0 +1,16 @@
+{
+  "from": "GB18030/GBK comments",
+  "to": "UTF-8",
+  "files": [
+    "hardware/current/sources/rtl/camera_init.v",
+    "hardware/current/sources/rtl/disp_parameter_cfg.v",
+    "hardware/current/sources/rtl/dvi_encoder.v",
+    "hardware/current/sources/rtl/dvp_capture.v",
+    "hardware/current/sources/rtl/encode.v",
+    "hardware/current/sources/rtl/i2c_bit_shift.v",
+    "hardware/current/sources/rtl/i2c_control.v",
+    "hardware/current/sources/rtl/ov5640_init_table_rgb.v",
+    "hardware/current/sources/rtl/serdes_4b_10to1.v"
+  ],
+  "non_comment_rtl_ascii_unchanged": true
+}

@@ -1,0 +1,126 @@
+{
+  "fall_regions_gesture_v2": {
+    "development": {
+      "original_falldataset": {
+        "gt": 698,
+        "base_tp": 571,
+        "kept_tp": 571,
+        "negative_images": 44,
+        "base_fp_images": 2,
+        "kept_fp_images": 2
+      },
+      "CAUCAFall_v4": {
+        "gt": 15,
+        "base_tp": 14,
+        "kept_tp": 14,
+        "negative_images": 25,
+        "base_fp_images": 3,
+        "kept_fp_images": 3
+      },
+      "user_camera": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 27,
+        "base_fp_images": 0,
+        "kept_fp_images": 0
+      },
+      "FreiHAND_research": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 24,
+        "base_fp_images": 19,
+        "kept_fp_images": 2
+      },
+      "COCO_train2017": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 0,
+        "base_fp_images": 0,
+        "kept_fp_images": 0
+      }
+    },
+    "test": {
+      "CAUCAFall_v4": {
+        "gt": 27,
+        "base_tp": 25,
+        "kept_tp": 25,
+        "negative_images": 53,
+        "base_fp_images": 4,
+        "kept_fp_images": 4
+      },
+      "Fashion-MNIST": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 1000,
+        "base_fp_images": 5,
+        "kept_fp_images": 2
+      }
+    }
+  },
+  "fall_regions_refined_v4": {
+    "development": {
+      "original_falldataset": {
+        "gt": 698,
+        "base_tp": 571,
+        "kept_tp": 571,
+        "negative_images": 44,
+        "base_fp_images": 2,
+        "kept_fp_images": 2
+      },
+      "CAUCAFall_v4": {
+        "gt": 15,
+        "base_tp": 14,
+        "kept_tp": 14,
+        "negative_images": 25,
+        "base_fp_images": 3,
+        "kept_fp_images": 3
+      },
+      "user_camera": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 27,
+        "base_fp_images": 0,
+        "kept_fp_images": 0
+      },
+      "FreiHAND_research": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 24,
+        "base_fp_images": 19,
+        "kept_fp_images": 1
+      },
+      "COCO_train2017": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 0,
+        "base_fp_images": 0,
+        "kept_fp_images": 0
+      }
+    },
+    "test": {
+      "CAUCAFall_v4": {
+        "gt": 27,
+        "base_tp": 25,
+        "kept_tp": 25,
+        "negative_images": 53,
+        "base_fp_images": 4,
+        "kept_fp_images": 3
+      },
+      "Fashion-MNIST": {
+        "gt": 0,
+        "base_tp": 0,
+        "kept_tp": 0,
+        "negative_images": 1000,
+        "base_fp_images": 5,
+        "kept_fp_images": 0
+      }
+    }
+  }
+}

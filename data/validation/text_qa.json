@@ -1,0 +1,21 @@
+{
+  "synthetic_ui_fixture": true,
+  "results": [
+    {
+      "profile": "desktop_text",
+      "errors": [],
+      "preview": "界面预览",
+      "font": "19.88px",
+      "overflow": false,
+      "clippedFooter": []
+    },
+    {
+      "profile": "mobile_text",
+      "errors": [],
+      "preview": "界面预览",
+      "font": "13px",
+      "overflow": false,
+      "clippedFooter": []
+    }
+  ]
+}

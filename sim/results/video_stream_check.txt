@@ -1,0 +1,2 @@
+视频分段、最新帧队列和重连旧帧隔离检查通过。
+执行入口：node ac880_fall/tests/test_video_stream.cjs

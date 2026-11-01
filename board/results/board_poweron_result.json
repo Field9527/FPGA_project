@@ -1,0 +1,27 @@
+{
+  "switch_started": true,
+  "status": {
+    "running": true,
+    "pid": 829,
+    "camera_ready": true,
+    "state": "IDLE",
+    "error": null,
+    "web": "http://192.168.2.99:8080"
+  },
+  "semantic": {
+    "available": true,
+    "recognition_switch": {
+      "available": true,
+      "position": 1,
+      "stable": true,
+      "message": "SW0 向上：手势模式"
+    },
+    "mode": "live",
+    "rotation": 0,
+    "show_objects": false,
+    "gesture_enabled": true,
+    "gesture_generation": 0,
+    "generation": 2,
+    "recognition_mode": "gesture"
+  }
+}
